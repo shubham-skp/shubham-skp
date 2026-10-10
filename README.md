@@ -78,8 +78,8 @@ Also: React Native, DaisyUI, shadcn/ui, Hugging Face, REST APIs, GitHub Actions,
 
 <p>
   <a href="https://discord.com/users/760797404642803732"><img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord" /></a>
-  <a href="https://www.linkedin.com/in/YOUR_LINKEDIN"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+  <a href="https://www.linkedin.com/in/shubham-kumar-pandey-3b54292b0/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
   <a href="mailto:24678shubham@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
 </p>
 
-<p align="center"><i>Always building something. Usually on Arch. 🐧</i></p>
+<p align="center"><i>Always building something. Usually on Linux. 🐧</i></p>
